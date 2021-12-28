@@ -84,6 +84,6 @@ echo "==========================================================================
 #echo "EF1a"
 #cat -- */exonerate_results/*_exonerate/*EF1A > concatenated_barcodes/all.EF1a.fasta
 
-#echo "LSU"
+
 
 exit 0
